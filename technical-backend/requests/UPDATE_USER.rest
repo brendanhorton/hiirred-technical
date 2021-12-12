@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/users/61b60eb029961c845ab5a9a6
+Content-Type: application/json
+
+{
+  "first_name": "skyler",
+  "last_name": "kropper",
+  "email": "sjk@kropper.ca"
+}
