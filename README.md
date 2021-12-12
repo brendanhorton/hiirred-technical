@@ -1,6 +1,6 @@
 Hiired Technical
 
-Requires .env file with mongoDB URI and port in backend technical directory
+Requires .env file with mongoDB_URI and PORT in backend-technical base directory
 
 npm run in technical-backend to start backend
 
